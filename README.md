@@ -68,10 +68,8 @@
 
 ###
 
-###
+### 🐍 Contribution Snake
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MMMAkees/MMMAkees/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MMMAkees/MMMAkees/output/snake-dark.svg" alt="Snake animation" />
+</p>
