@@ -43,6 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="70" alt="netlify logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
 </div>
 
