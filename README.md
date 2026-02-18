@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:900; font-size:70px; letter-spacing:1px;">Hi 👋, I'm Mohamed Akees</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Akees</h1>
 
 ###
 
