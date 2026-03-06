@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m a MERN Stack developer passionate about building modern web applications and AI-powered solutions. I enjoy turning ideas into real products using React, Node.js and modern UI design. Currently looking for internship and junior developer opportunities.</p>
+<p align="left">I’m a Full-Stack developer passionate about building modern web applications and AI-powered solutions. I enjoy turning ideas into real products using React, Node.js and modern UI design. Currently looking for developer opportunities.</p>
 
 ###
 
